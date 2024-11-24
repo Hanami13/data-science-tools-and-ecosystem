@@ -1,1 +1,1 @@
-Data Science exercise
+Data Science exercises from IBM course.
